@@ -1,0 +1,82 @@
+{
+  "attendanceRecords": [
+    {
+      "student": "v m,.nm.,/",
+      "date": "",
+      "status": "Present"
+    },
+    {
+      "student": "v m,.nm.,/",
+      "date": "2026-04-08",
+      "status": "Present"
+    },
+    {
+      "student": "ram",
+      "date": "2026-04-06",
+      "status": "Present"
+    }
+  ],
+  "assignments": [
+    {
+      "id": 1775370395115,
+      "title": "cc",
+      "dueDate": "2026-04-07",
+      "submittedBy": [
+        {
+          "username": "ram",
+          "file": "1775370440875-Screenshot 2026-03-25 103832.png",
+          "marks": null
+        }
+      ]
+    },
+    {
+      "id": 1775370490735,
+      "title": "dgfg",
+      "dueDate": "2026-04-08",
+      "submittedBy": []
+    },
+    {
+      "id": 1775371625070,
+      "title": "fcjh,",
+      "dueDate": "2026-04-08",
+      "file": "1775371625065-Screenshot 2026-03-28 173616.png",
+      "submittedBy": []
+    },
+    {
+      "id": 1775371916278,
+      "title": "awrw",
+      "dueDate": "2026-04-10",
+      "file": "1775371916275-Screenshot 2026-04-04 121912.png",
+      "submittedBy": []
+    }
+  ],
+  "announcements": [],
+  "documents": [
+    {
+      "name": ",;l'",
+      "category": "Aadhaar",
+      "uploadedBy": "Teacher",
+      "file": "1775473159662-Screenshot 2026-04-04 171914.png"
+    },
+    {
+      "name": "adhar",
+      "category": "Aadhaar",
+      "uploadedBy": "Teacher",
+      "file": "1775473577456-Screenshot 2026-04-04 171914.png"
+    }
+  ],
+  "teacherAdvice": [],
+  "certificates": [
+    {
+      "id": 1775477082909,
+      "username": "ram",
+      "type": "Bonafide",
+      "amount": "60",
+      "documents": [],
+      "appliedDate": "6/4/2026",
+      "status": "Pending",
+      "hardcopyDate": null,
+      "file": null
+    }
+  ]
+}
